@@ -1,0 +1,31 @@
+/* Background Gradient */
+.bg-gradient-custom {
+  background: linear-gradient(to right, #6e8efb, #a777e3);
+    padding: 50px 16px !important;
+
+}
+
+/* Gradient Button */
+.btn-gradient {
+  background: linear-gradient(to right, #6e8efb, #a777e3);
+  color: white;
+  border: none;
+}
+
+.btn-gradient:hover {
+  opacity: 0.9;
+  color: white;
+}
+
+/* Label styling */
+.form-label {
+  font-weight: bold;
+  color: #333;
+}
+
+/* Custom padding for Phone Number field */
+
+/* Padding inside the form */
+form {
+  padding: 20px;
+}
